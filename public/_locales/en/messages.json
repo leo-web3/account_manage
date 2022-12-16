@@ -1,0 +1,7 @@
+{
+  "appName": { "message": "accounts-manage" },
+  "appDescription": {
+    "message": "accounts-manage"
+  },
+  "helloWorld": { "message": "Hello World" }
+}
